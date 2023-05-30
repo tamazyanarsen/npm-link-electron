@@ -1,0 +1,9 @@
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.project {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
