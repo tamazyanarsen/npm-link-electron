@@ -10,6 +10,7 @@
   "author": "Arsen Tamazyan",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^25.0.0"
+    "electron": "^25.0.0",
+    "fs-extra": "^11.1.1"
   }
 }

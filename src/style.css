@@ -1,9 +1,11 @@
-.content {
+.list {
     display: flex;
     flex-direction: column;
+    grid-gap: 1em;
 }
 
 .project {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1em;
 }
